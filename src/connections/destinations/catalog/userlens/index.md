@@ -1,10 +1,17 @@
 ---
-title: Userlens By Wudpecker Destination
+title: Userlens Destination
 id: 678b412b643761937104abb2
 ---
 
 
-[Userlens By Wudpecker](https://userlens.io/?utm_source=segmentio&utm_medium=docs&utm_campaign=partners){:target="_blank"} is the Next-Gen of Product Intelligence. Userlens combines quantitative data from products like Segment and PostHog, and qualitative feedback from products like Intercom and Wudpecker user interviews, to give you a full picture of how your users are using your products and features.
+[Userlens](https://userlens.io/?utm_source=segmentio&utm_medium=docs&utm_campaign=partners){:target="_blank"} is a product adoption tool for Customer Success. 
+
+Userlens combines 
+1. quantitative event-based data through Segment, Amplitude, Mixpanel, and Posthog, 
+2. qualitative conversations from Intercom, Zendesk, Gong, and Fireflies
+3. commercial information from Salesforce and Hubspot
+
+to give you a full picture of how your accounts/customers/clients health score and adoption of your product.
 
 This destination is maintained by Wudpecker. For any issues with the destination, [contact the Wudpecker Support team](mailto:ankur@wudpecker.io).
 
